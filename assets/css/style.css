@@ -1,0 +1,30 @@
+body{
+    color: rgb(224, 223, 127);
+    background-color: #c54646;
+}
+
+.jumbotron{
+    background-image:url("./../images/pink_dust.PNG");
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.btn{
+    border:none;
+    cursor:pointer;
+    display:block;
+    font-size:20px;
+    font-weight: bold;
+    margin-left: 50px; 
+
+}
+.img-fluid {
+    max-width: 300px;
+
+}
+
+#placeholders {
+    letter-spacing: 5px;
+}
