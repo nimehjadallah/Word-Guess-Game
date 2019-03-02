@@ -4,7 +4,7 @@ body{
 }
 
 .jumbotron{
-    background-image:url("./../images/pink_dust.PNG");
+    background-image:url("./../images/pink_dust.png");
     background-size: cover;
     background-position: center;
     
